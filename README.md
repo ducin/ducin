@@ -5,5 +5,7 @@
 - 📚 specializing in Architecture & Frontend (JS, TS, React, Angular and many more)
 - 👋 tomasz at ducin dot it, [@tomasz_ducin](https://twitter.com/tomasz_ducin), [blog](https://dev.to/ducin)
 
+### some online works
+
 - 👷‍♂️ [Architektura Na Froncie](http://architekturanafroncie.pl)
 - 🅰️ https://ducin.github.io/angular-defer
