@@ -4,4 +4,6 @@
 - 🤓 experienced [Leader](http://ducin.it/), [Trainer](http://ducin.it/trainings) and [Speaker](http://ducin.it/archive)
 - 📚 specializing in Architecture & Frontend (JS, TS, React, Angular and many more)
 - 👋 tomasz at ducin dot it, [@tomasz_ducin](https://twitter.com/tomasz_ducin), [blog](https://dev.to/ducin)
-- 🏗️ [Architektura Na Froncie](http://architekturanafroncie.pl)
+
+- 👷‍♂️ [Architektura Na Froncie](http://architekturanafroncie.pl)
+- 🅰️ https://ducin.github.io/angular-defer
