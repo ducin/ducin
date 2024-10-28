@@ -5,6 +5,7 @@
 - 📚 specializing in Architecture & Frontend (JS, TS, React, Angular and many more)
 - 🥚 [Egghead Instructor 🎥](https://bit.ly/ducin-egghead)
   - [Scalable Signals Angular Architecture with NGRX Signal Store](https://egghead.io/courses/scalable-signals-architecture-with-ngrx-signal-store-a33abd39)
+  - [Angular Migrations In Practice](https://egghead.io/courses/angular-migrations-in-practice-54fd1fe2)
   - [Domain Data Modeling using TypeScript Aliases, Brand Types and Value Objects](https://egghead.io/courses/domain-data-modeling-using-typescript-aliases-brand-types-and-value-objects-4daf0ac1)
   - [Simplify State Management with React Query](https://egghead.io/courses/simplify-state-management-with-react-query-0d92fbf3)
   - [Learn the Latest ECMAScript Features (ES2024, ES2023, ...)](https://egghead.io/courses/learn-the-latest-ecmascript-features-es2024-es2023-9112d52a?af=https://app.egghead.io/s/npr32)
