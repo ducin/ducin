@@ -11,6 +11,7 @@
   - [Learn the Latest ECMAScript Features (ES2024, ES2023, ...)](https://egghead.io/courses/learn-the-latest-ecmascript-features-es2024-es2023-9112d52a?af=https://app.egghead.io/s/npr32)
   - [Modernize State Management in Angular with Signals](https://egghead.io/courses/modernize-state-management-in-angular-with-signals-6e7ea1c2?af=https://app.egghead.io/s/npr32)
 - 👋 tomasz { at } ducin.dev
+  - bluesky 🦋: [@ducin.dev](https://bsky.app/profile/ducin.dev)
   - twitter/X: [@tomasz_ducin](https://twitter.com/tomasz_ducin)
   - Youtube: [@DucinDev](https://www.youtube.com/@DucinDev)
   - [blog](https://ducin.dev/blog), [dev.to](https://dev.to/ducin)
@@ -19,5 +20,6 @@
 ### some online works
 
 - 👷‍♂️ [Architektura Na Froncie](http://architekturanafroncie.pl)
+- 📚 [My personal list of valuable resources and people to follow](https://github.com/ducin/awesomes)
 - 🅰️ https://ducin.github.io/angular-defer
 - and proudly 🅰️ [Angular Devtools Team](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh?pli=1)
