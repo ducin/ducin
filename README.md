@@ -11,7 +11,7 @@
   - [blog](https://ducin.dev/blog), [dev.to](https://dev.to/ducin)
   - [newsletter](https://ducin.dev/newsletter)
 
-## my egghead.io courses
+### my egghead.io courses
 
 - TypeScript:
   - [Domain Data Modeling using TypeScript Aliases, Brand Types and Value Objects](https://egghead.io/courses/domain-data-modeling-using-typescript-aliases-brand-types-and-value-objects-4daf0ac1)
